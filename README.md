@@ -27,9 +27,9 @@ make
 
 By default, KV storage server is listening to port 7777.
 
-### Architecture
+## Architecture
 
-<img src="https://github.com/hopebo/Simple-KV/blob/master/images/architecture.png" width="60%" alt="Architecture"/>
+<img src="https://github.com/hopebo/Simple-KV/blob/master/images/architecture.png" width="70%" alt="Architecture"/>
 
 ## Benchmark
 
