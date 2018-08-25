@@ -41,7 +41,7 @@ CPU: Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz(56 cores)
 Memory available: 44,239 MB
 ```
 
-### KV Store Performance
+### KV Storage Performance
 
 Single thread, offset table cache num: 1000, key size: 25 bytes
 
